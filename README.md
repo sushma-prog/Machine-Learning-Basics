@@ -1,6 +1,6 @@
 # 🧠 Machine Learning Basics 
 
-Welcome to my hands-on journey through the **Machine Learning Basics** course!  
+Welcome to my hands-on journey through the **Machine Learning Basics** Learning!  
 This repository contains all the work I completed during **2 Weeks**, covering foundational concepts, model evaluation, and a complete mini project.
 
 ---
