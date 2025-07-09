@@ -1,13 +1,13 @@
-# 🧠 Machine Learning Basics (Weeks 7–8)
+# 🧠 Machine Learning Basics 
 
 Welcome to my hands-on journey through the **Machine Learning Basics** course!  
-This repository contains all the work I completed during **Weeks 7–8**, covering foundational concepts, model evaluation, and a complete mini project.
+This repository contains all the work I completed during **2 Weeks**, covering foundational concepts, model evaluation, and a complete mini project.
 
 ---
 
 ## 📅 Weekly Breakdown
 
-### ✅ Week 7: Supervised Learning Fundamentals
+### ✅ Week 1: Supervised Learning Fundamentals
 
 #### 📘 Day 1: Introduction to Supervised Learning
 - Understanding regression vs classification
@@ -32,7 +32,7 @@ This repository contains all the work I completed during **Weeks 7–8**, coveri
 
 ---
 
-### ✅ Week 8: Evaluation, Tuning & Real-World Project
+### ✅ Week 2: Evaluation, Tuning & Real-World Project
 
 #### 🆕 Day 5: Model Evaluation & Unsupervised Learning
 **Part A:**
